@@ -1,0 +1,4 @@
+build/
+out/
+lib/deps/*.so
+lib/deps/*.jar
